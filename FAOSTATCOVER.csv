@@ -1,4 +1,4 @@
-﻿Código del ámbito,Ámbito,Código del área (ISO3),Área,Código del elemento,Elemento,Código del producto,Producto,Código del año,Año,Unidad,Valor,Símbolo,Descripción del Símbolo
+﻿Codigo del ambito,Ambito,ISO3,Area,Codigo del elemento,Elemento,Codigo del producto,Producto,Codigo del periodo,periodo,Unidad,Valor,Simbolo,Descripcion del Simbolo
 "LC","Cobertura de la tierra","AFG","Afganistán","5013","Area from WorldCover","6970","Superficies artificiales (incluidas las zonas urbanas y conexas)","2020","2020","1000 ha","236.97","E","Valor estimado"
 "LC","Cobertura de la tierra","AFG","Afganistán","5013","Area from WorldCover","6970","Superficies artificiales (incluidas las zonas urbanas y conexas)","2021","2021","1000 ha","191.9","E","Valor estimado"
 "LC","Cobertura de la tierra","AFG","Afganistán","5013","Area from WorldCover","6971","Cultivos herbáceos","2020","2020","1000 ha","4493.4","E","Valor estimado"
